@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tic-tac-toe.nmc.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strRestart">Restart</string>
+    <string name="strEmpty" />
+    <string name="strWin">WIN</string>
+
+</resources>
